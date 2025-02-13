@@ -1,0 +1,5 @@
+1) What are the top 5 leagues by revenue, and how do their viewership and average player salaries compare?
+2) How is the total revenue distributed by sport type across different countries?
+3) What is the trend of leagues' founding years, and how does it correlate with their current popularity (viewership)?
+4) Which sport has the most leagues, and what is the total number of teams in each sport?
+5) What are the top teams from leagues with the highest viewership, and how does their performance relate to the league's revenue?
